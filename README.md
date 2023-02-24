@@ -5,7 +5,7 @@
 This website is build for searching any GitHub Profile by entering there username
 
 The site is live at [here]
-(https://akashsaha2001.github.io/GitHub-Explorer.github.io/).
+(https://akashsaha2001.github.io/GitHub-Explorer/).
 
 ## Usage
 
